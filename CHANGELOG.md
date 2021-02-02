@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 2.0.5
+
+### Patch Changes
+
+- @ctx-core/store@24.0.5
+
 ## 2.0.4
 
 ### Patch Changes
