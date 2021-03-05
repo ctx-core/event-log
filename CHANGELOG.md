@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 2.0.28
+
+### Patch Changes
+
+- typescript: ^4.2.2 -> ^4.2.3
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.3.1
+  - @ctx-core/store@24.1.10
+
 ## 2.0.27
 
 ### Patch Changes
