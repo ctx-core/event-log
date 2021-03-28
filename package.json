@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "2.0.31",
+	"version": "2.0.32",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -23,13 +23,13 @@
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "./node_modules/.bin/tsc -b",
+		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^17.4.0",
-		"@ctx-core/store": "workspace:^24.1.13"
+		"@ctx-core/object": "workspace:^17.4.1",
+		"@ctx-core/store": "workspace:^24.1.14"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"

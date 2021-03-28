@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 2.0.32
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.1
+  - @ctx-core/store@24.1.14
+
 ## 2.0.31
 
 ### Patch Changes
