@@ -1,5 +1,13 @@
 # @ctx-core/event-log
 
+## 2.0.50
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/store@24.5.1
+
 ## 2.0.49
 
 ### Patch Changes
