@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "2.0.63",
+	"version": "2.0.64",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -29,7 +29,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^17.5.17",
-		"@ctx-core/store": "workspace:^24.7.6"
+		"@ctx-core/store": "workspace:^24.7.7"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
