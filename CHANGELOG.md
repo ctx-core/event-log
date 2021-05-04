@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 2.0.66
+
+### Patch Changes
+
+- update dependencies
+
 ## 2.0.65
 
 ### Patch Changes
