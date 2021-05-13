@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "2.0.67",
+	"version": "2.0.68",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -28,8 +28,8 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^17.5.24",
-		"@ctx-core/store": "workspace:^24.7.17"
+		"@ctx-core/object": "workspace:^17.5.25",
+		"@ctx-core/store": "workspace:^24.7.18"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
