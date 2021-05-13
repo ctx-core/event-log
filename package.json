@@ -28,8 +28,8 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^17.5.25",
-		"@ctx-core/store": "workspace:^24.7.19"
+		"@ctx-core/object": "workspace:^17.5.26",
+		"@ctx-core/store": "workspace:^24.7.20"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
