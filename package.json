@@ -29,7 +29,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^17.5.27",
-		"@ctx-core/store": "workspace:^24.7.23"
+		"@ctx-core/store": "workspace:^24.7.24"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
