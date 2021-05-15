@@ -1,5 +1,7 @@
 import { Readable } from '@ctx-core/store';
-export declare function event_log_b(ctx: any): event_log_type;
+export declare function event_log_b(ctx: {
+    event_log?: event_log_type;
+}): event_log_type;
 export interface event_log_record_type<I extends any = any> extends Record<string, I> {
 }
 export declare type $event_log_type = event_log_record_type[];

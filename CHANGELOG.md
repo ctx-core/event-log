@@ -1,5 +1,17 @@
 # @ctx-core/event-log
 
+## 2.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.0
+  - @ctx-core/store@24.8.0
+
 ## 2.0.70
 
 ### Patch Changes
