@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 2.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.1
+  - @ctx-core/store@24.8.1
+
 ## 2.1.0
 
 ### Minor Changes
