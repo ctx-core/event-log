@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 2.1.3
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.2
+  - @ctx-core/store@24.8.2
+
 ## 2.1.2
 
 ### Patch Changes
