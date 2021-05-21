@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 2.1.6
+
+### Patch Changes
+
+- \_ctx_I->\_Ctx
+
 ## 2.1.5
 
 ### Patch Changes
@@ -29,7 +35,7 @@
 
 ### Patch Changes
 
-- - event_log_ctx_I
+- - event_log_Ctx
 
 ## 2.1.1
 
