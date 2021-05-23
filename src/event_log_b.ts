@@ -1,9 +1,7 @@
 import { _b, assign } from '@ctx-core/object'
 import { _readable_set_ctx$, Readable$ } from '@ctx-core/store'
+import type { event_log_Ctx } from './event_log_Ctx'
 const key = 'event_log'
-export interface event_log_Ctx {
-	event_log?:event_log_T
-}
 export function event_log_b(ctx:event_log_Ctx) {
 	return _b<event_log_Ctx, typeof key>(key, ()=>{
 		const $event_log:$event_log_T = []

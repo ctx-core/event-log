@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 2.2.0
+
+### Minor Changes
+
+- - event_log_Ctx
+
 ## 2.1.9
 
 ### Patch Changes
