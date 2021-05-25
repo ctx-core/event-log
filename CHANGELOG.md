@@ -1,5 +1,17 @@
 # @ctx-core/event-log
 
+## 2.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.2.0
+  - @ctx-core/store@24.10.0
+
 ## 2.3.1
 
 ### Patch Changes
