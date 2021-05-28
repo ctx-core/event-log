@@ -1,4 +1,3 @@
-import type { event_log_T } from './event_log_b'
-export interface event_log_Ctx {
-	event_log?:event_log_T
+import type { event_log_ctx_I } from './event_log_ctx_I.generated'
+export interface event_log_Ctx extends event_log_ctx_I {
 }

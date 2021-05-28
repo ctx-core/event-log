@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 2.4.2
+
+### Patch Changes
+
+- - event_log_b_h_b
+
 ## 2.4.1
 
 ### Patch Changes
