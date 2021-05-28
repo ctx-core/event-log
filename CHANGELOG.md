@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 2.4.3
+
+### Patch Changes
+
+- fix: \_h_b_h: return value
+
 ## 2.4.2
 
 ### Patch Changes
