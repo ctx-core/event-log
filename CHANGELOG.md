@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 3.0.6
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.0.5
 
 ### Patch Changes
