@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^19.1.1",
-		"@ctx-core/store": "workspace:^25.1.10"
+		"@ctx-core/store": "workspace:^25.1.11"
 	},
 	"devDependencies": {
 		"@ctx-core/dev-tools": "workspace:^5.1.2",
