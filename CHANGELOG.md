@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 3.0.12
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.2
+  - @ctx-core/store@25.1.12
+
 ## 3.0.11
 
 ### Patch Changes
