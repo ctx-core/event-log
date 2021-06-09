@@ -4,19 +4,19 @@ import type { event_log_Ctx } from './event_log_Ctx'
 const key = 'event_log$'
 export function event_log$_b(ctx:event_log_Ctx) {
 	return be_<event_log_Ctx, typeof key>(key, ()=>{
-		const $event_log:event_log_T = []
+		const event_log:event_log_T = []
 		let limit = 10_000
-		const { store: event_log, set } = readable$_set_ctx_<event_log_T>($event_log)
-		return assign(event_log, {
+		const { store: event_log$, set } = readable$_set_ctx_<event_log_T>(event_log)
+		return assign(event_log$, {
 			add,
 			set_limit,
 		}) as event_log$_T
 		function add(record:event_log_record_T) {
-			$event_log.unshift(record)
-			if ($event_log.length > limit) {
-				$event_log.splice(limit)
+			event_log.unshift(record)
+			if (event_log.length > limit) {
+				event_log.splice(limit)
 			}
-			set($event_log)
+			set(event_log)
 		}
 		function set_limit(in_limit:number) {
 			limit = in_limit

@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 3.0.17
+
+### Patch Changes
+
+- fix: B: inferred type issue
+
 ## 3.0.16
 
 ### Patch Changes
