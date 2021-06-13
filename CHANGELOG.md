@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 3.0.20
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.0.19
 
 ### Patch Changes
