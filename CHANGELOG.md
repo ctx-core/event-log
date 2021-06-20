@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 4.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.7
+  - @ctx-core/store@26.0.8
+
 ## 4.0.6
 
 ### Patch Changes
