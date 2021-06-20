@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 4.0.5
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.5
+  - @ctx-core/store@26.0.6
+
 ## 4.0.4
 
 ### Patch Changes
