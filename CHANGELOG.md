@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 4.0.6
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.6
+  - @ctx-core/store@26.0.7
+
 ## 4.0.5
 
 ### Patch Changes
