@@ -29,11 +29,11 @@
 		"generate_ctx_I_file": "./node_modules/.bin/generate_ctx_I_file"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^20.2.0",
-		"@ctx-core/store": "workspace:^26.0.15"
+		"@ctx-core/object": "workspace:^20.2.1",
+		"@ctx-core/store": "workspace:^26.0.16"
 	},
 	"devDependencies": {
-		"@ctx-core/dev-tools": "workspace:^6.0.10",
+		"@ctx-core/dev-tools": "workspace:^6.0.11",
 		"typescript": "^4.3.4"
 	},
 	"publishConfig": {
