@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 4.0.14
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.2.2
+  - @ctx-core/store@26.0.17
+
 ## 4.0.13
 
 ### Patch Changes
