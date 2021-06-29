@@ -29,8 +29,8 @@
 		"generate_ctx_I_file": "./node_modules/.bin/generate_ctx_I_file"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^20.2.2",
-		"@ctx-core/store": "workspace:^26.0.18"
+		"@ctx-core/object": "workspace:^20.2.3",
+		"@ctx-core/store": "workspace:^26.0.19"
 	},
 	"devDependencies": {
 		"@ctx-core/dev-tools": "workspace:^6.0.15",
