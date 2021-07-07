@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 4.0.20
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.19
 
 ### Patch Changes
