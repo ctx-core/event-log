@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 5.0.3
+
+### Patch Changes
+
+- import: + .js extention
+
 ## 5.0.2
 
 ### Patch Changes
