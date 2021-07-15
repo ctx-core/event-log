@@ -1,6 +1,6 @@
 import { be_, assign } from '@ctx-core/object'
 import { readable$_set_ctx_, Readable$ } from '@ctx-core/store'
-import type { event_log_Ctx } from './event_log_Ctx'
+import type { event_log_Ctx } from './event_log_Ctx.js'
 const key = 'event_log$'
 export function event_log$_b(ctx:event_log_Ctx) {
 	return be_<event_log_Ctx, typeof key>(key, ()=>{

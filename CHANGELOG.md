@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 5.0.4
+
+### Patch Changes
+
+- fix: module imports;types
+
 ## 5.0.3
 
 ### Patch Changes
