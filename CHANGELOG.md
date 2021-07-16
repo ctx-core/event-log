@@ -1,5 +1,23 @@
 # @ctx-core/event-log
 
+## 5.0.12
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.10
+  - @ctx-core/store@27.0.9
+
+## 5.0.11
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.9
+  - @ctx-core/store@27.0.8
+
 ## 5.0.10
 
 ### Patch Changes
