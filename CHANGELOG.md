@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 5.0.5
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.3
+  - @ctx-core/store@27.0.3
+
 ## 5.0.4
 
 ### Patch Changes
