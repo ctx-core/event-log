@@ -1,5 +1,23 @@
 # @ctx-core/event-log
 
+## 5.0.7
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.5
+  - @ctx-core/store@27.0.4
+
+## 5.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.4
+  - @ctx-core/store@27.0.4
+
 ## 5.0.5
 
 ### Patch Changes
