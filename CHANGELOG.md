@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 5.0.13
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.11
+  - @ctx-core/store@27.0.10
+
 ## 5.0.12
 
 ### Patch Changes
