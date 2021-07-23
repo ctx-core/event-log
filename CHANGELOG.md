@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 5.0.17
+
+### Patch Changes
+
+- fix: \*\_ctx_I.generated
+
 ## 5.0.16
 
 ### Patch Changes
