@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 5.0.18
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.17
 
 ### Patch Changes
