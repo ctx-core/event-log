@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "5.0.32",
+	"version": "5.0.33",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -37,13 +37,13 @@
 		"generate_ctx_I_file": "swc $(./node_modules/.bin/generate_ctx_I_file | tail -n1) --out-dir dist --source-maps --config-file .swcrc"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^21.0.27",
-		"@ctx-core/store": "workspace:^27.0.41"
+		"@ctx-core/object": "workspace:^21.0.28",
+		"@ctx-core/store": "workspace:^27.0.42"
 	},
 	"devDependencies": {
-		"@ctx-core/dev-tools": "workspace:^7.2.5",
+		"@ctx-core/dev-tools": "workspace:^7.2.6",
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.116",
+		"@swc/core": "^1.2.117",
 		"typescript": "next"
 	},
 	"publishConfig": {
