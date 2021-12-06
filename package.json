@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "5.0.35",
+	"version": "5.0.36",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,6 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./src/index.ts",
 	"exports": {
@@ -38,10 +37,10 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^21.0.30",
-		"@ctx-core/store": "workspace:^27.0.44"
+		"@ctx-core/store": "workspace:^27.0.45"
 	},
 	"devDependencies": {
-		"@ctx-core/dev-tools": "workspace:^7.2.8",
+		"@ctx-core/dev-tools": "workspace:^7.2.9",
 		"@swc/cli": "^0.1.52",
 		"@swc/core": "^1.2.118",
 		"typescript": "next"
