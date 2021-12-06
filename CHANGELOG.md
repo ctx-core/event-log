@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 5.0.34
+
+### Patch Changes
+
+- @swc/core: ^1.2.117 -> ^1.2.118
+- Updated dependencies
+  - @ctx-core/object@21.0.29
+  - @ctx-core/store@27.0.43
+
 ## 5.0.33
 
 ### Patch Changes
