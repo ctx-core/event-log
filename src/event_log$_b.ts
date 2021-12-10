@@ -1,9 +1,8 @@
-import { be_, assign } from '@ctx-core/object'
+import { be_, assign, Ctx } from '@ctx-core/object'
 import { readable$_set_ctx_, Readable$ } from '@ctx-core/store'
-import type { event_log_Ctx } from './event_log_Ctx.js'
 const key = 'event_log$'
-export function event_log$_b(ctx:event_log_Ctx) {
-	return be_<event_log_Ctx, typeof key>(key, ()=>{
+export function event_log$_b(ctx:Ctx) {
+	return be_<event_log$_T>(key, ()=>{
 		const event_log:event_log_T = []
 		let limit = 10_000
 		const { store: event_log$, set } = readable$_set_ctx_<event_log_T>(event_log)

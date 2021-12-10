@@ -1,5 +1,19 @@
 # @ctx-core/event-log
 
+## 6.0.0
+
+### Major Changes
+
+- \*\_b: ctx is a map: @ctx-core/object: 22.0.0
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+  - @ctx-core/store@27.0.46
+
 ## 5.0.36
 
 ### Patch Changes
