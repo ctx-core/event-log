@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^22.0.0",
-		"@ctx-core/store": "workspace:^27.0.46"
+		"@ctx-core/store": "workspace:^27.0.47"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
