@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 6.0.4
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/object@22.0.4
+  - @ctx-core/store@27.0.51
+
 ## 6.0.3
 
 ### Patch Changes
