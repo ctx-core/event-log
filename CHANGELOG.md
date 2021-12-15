@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 6.0.3
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/object@22.0.3
+  - @ctx-core/store@27.0.50
+
 ## 6.0.2
 
 ### Patch Changes
