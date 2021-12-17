@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "6.0.5",
+	"version": "6.0.6",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -36,8 +36,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.5",
-		"@ctx-core/store": "workspace:^27.0.52"
+		"@ctx-core/object": "workspace:^22.0.6",
+		"@ctx-core/store": "workspace:^27.0.53"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
