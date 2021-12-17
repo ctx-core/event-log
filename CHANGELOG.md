@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 6.0.5
+
+### Patch Changes
+
+- fix: build
+- Updated dependencies
+  - @ctx-core/object@22.0.5
+  - @ctx-core/store@27.0.52
+
 ## 6.0.4
 
 ### Patch Changes
