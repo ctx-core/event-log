@@ -1,5 +1,18 @@
 # @ctx-core/event-log
 
+## 7.0.3
+
+### Patch Changes
+
+- update dependencies
+
+## 7.0.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/nanostores@0.2.0
+
 ## 7.0.1
 
 ### Patch Changes
