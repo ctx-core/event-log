@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/nanostores": "workspace:^0.3.1",
-		"@ctx-core/object": "workspace:^22.0.8"
+		"@ctx-core/object": "workspace:^22.0.9"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
