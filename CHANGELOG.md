@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 7.0.7
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/nanostores@0.3.2
+  - @ctx-core/object@22.0.10
+
 ## 7.0.6
 
 ### Patch Changes
