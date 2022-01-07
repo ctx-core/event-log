@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 7.0.8
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- Updated dependencies
+  - @ctx-core/nanostores@0.3.3
+  - @ctx-core/object@22.0.11
+
 ## 7.0.7
 
 ### Patch Changes
