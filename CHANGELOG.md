@@ -1,5 +1,17 @@
 # @ctx-core/event-log
 
+## 7.0.13
+
+### Patch Changes
+
+- update dependencies
+
+## 7.0.12
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.11
 
 ### Patch Changes
