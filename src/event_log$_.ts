@@ -1,7 +1,7 @@
 import { be_, assign, Ctx } from '@ctx-core/object'
 import { split_atom$, ReadableAtom$ } from '@ctx-core/nanostores'
 const key = 'event_log$'
-export function event_log$_b(ctx:Ctx) {
+export function event_log$_(ctx:Ctx) {
 	return be_<event_log$_T>(key, ()=>{
 		const event_log:event_log_T = []
 		let limit = 10_000
