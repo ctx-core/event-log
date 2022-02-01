@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 8.0.1
+
+### Patch Changes
+
+- fix: event*log\$*: single memoized instance
+
 ## 8.0.0
 
 ### Major Changes
