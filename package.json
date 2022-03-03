@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^0.7.4",
+		"@ctx-core/nanostores": "^0.7.5",
 		"@ctx-core/object": "*"
 	},
 	"devDependencies": {
