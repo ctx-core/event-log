@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "8.0.9",
+	"version": "8.0.10",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^1.0.2",
+		"@ctx-core/nanostores": "^1.0.3",
 		"@ctx-core/object": "*"
 	},
 	"devDependencies": {
