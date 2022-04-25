@@ -34,12 +34,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^1.0.13",
+		"@ctx-core/nanostores": "^1.0.14",
 		"@ctx-core/object": "^22.1.6"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.170",
+		"@swc/core": "^1.2.171",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
