@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "8.0.21",
+	"version": "8.0.22",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/nanostores": "^1.0.19",
-		"@ctx-core/object": "^22.1.10"
+		"@ctx-core/object": "^22.2.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",

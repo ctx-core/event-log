@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 8.0.22
+
+### Patch Changes
+
+- @ctx-core/object: 22.2.0
+
 ## 8.0.21
 
 ### Patch Changes
