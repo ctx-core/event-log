@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 8.1.0
+
+### Minor Changes
+
+- \__ suffix aliased by \$_
+
 ## 8.0.27
 
 ### Patch Changes
