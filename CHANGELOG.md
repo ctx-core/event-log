@@ -1,5 +1,13 @@
 # @ctx-core/event-log
 
+## 9.0.0
+
+### Major Changes
+
+- event_log**add instead of event_log**(ctx).add
+
+  event_log**set_limit instead of event_log**(ctx).set_limit
+
 ## 8.1.0
 
 ### Minor Changes
