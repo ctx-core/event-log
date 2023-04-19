@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 9.0.81
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/nanostores@3.2.22
+  - @ctx-core/object@27.4.23
+
 ## 9.0.80
 
 ### Patch Changes
