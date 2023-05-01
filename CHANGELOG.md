@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 9.0.86
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^3.4.0 -> ^3.4.1
+
 ## 9.0.85
 
 ### Patch Changes
