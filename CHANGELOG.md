@@ -1,5 +1,22 @@
 # @ctx-core/event-log
 
+## 9.1.0
+
+### Minor Changes
+
+- - event*log*
+
+### Patch Changes
+
+- event_log\_\_T: fix:
+
+      - add
+      - set_limit
+
+- event*log\_\_add: fix: notify event_log$*:
+
+      notify listeners of _event_log$_(ctx)
+
 ## 9.0.106
 
 ### Patch Changes
