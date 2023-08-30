@@ -1,1 +1,1 @@
-export * from './event_log$_'
+export * from './event_log'
