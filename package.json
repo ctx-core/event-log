@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "9.1.22",
+	"version": "9.1.23",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -34,8 +34,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^6.0.7",
-		"@ctx-core/object": "^28.0.6"
+		"@ctx-core/nanostores": "^6.0.8",
+		"@ctx-core/object": "^28.0.7"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
