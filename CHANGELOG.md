@@ -1,5 +1,14 @@
 # @ctx-core/event-log
 
+## 9.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/nanostores@7.1.3
+  - @ctx-core/object@30.1.2
+
 ## 9.2.1
 
 ### Patch Changes
