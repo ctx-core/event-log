@@ -1,7 +1,6 @@
 import { be_atom_triple_, be_computed_pair_ } from '@ctx-core/nanostores'
 const [
-	// eslint-disable-next-line @typescript-eslint/no-unused-vars
-	_event_log$_,
+	,
 	_event_log_,
 	_event_log__set,
 ] = be_atom_triple_(()=>[])
