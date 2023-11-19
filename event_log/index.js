@@ -1,26 +1,24 @@
-import { atom_, be_atom_triple_, val__be_computed_pair_ } from '@ctx-core/nanostores'
+import { be_atom_triple_, be_computed_pair_ } from '@ctx-core/nanostores'
 const [
+	// eslint-disable-next-line @typescript-eslint/no-unused-vars
 	_event_log$_,
 	_event_log_,
 	_event_log__set,
-] = be_atom_triple_(()=>
-	atom_([]))
+] = be_atom_triple_(()=>[])
 export const [
 	event_log$_,
 	event_log_,
-] = val__be_computed_pair_('event_log', ctx=>{
+] = be_computed_pair_(ctx=>{
 	if (_event_log_(ctx)?.length > event_log_limit_(ctx)) {
 		_event_log_(ctx).splice(event_log_limit_(ctx))
 	}
 	return _event_log_(ctx)
-})
+}).config({ id: 'event_log' })
 export { event_log$_ as event_log__ }
 const [
 	event_log_limit$_,
 	event_log_limit_,
-	event_log_limit__set,
-] = be_atom_triple_(()=>
-	atom_(10000))
+] = be_atom_triple_(()=>10000)
 export function event_log__add(ctx, record) {
 	_event_log__set(ctx, [record, ..._event_log_(ctx)])
 }
