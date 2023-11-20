@@ -12,17 +12,15 @@ export const [
 		if (_event_log?.length > event_log_limit) {
 			_event_log.splice(event_log_limit)
 		}
-		return _event_log
+		return _event_log.slice()
 	}, { id: 'event_log' })
 export { event_log$_ as event_log__ }
-const [
-	event_log_limit$_
-	,
+export const [
+	event_log_limit$_,
+	event_log_limit_,
 	event_log_limit__set
 ] = be_atom_triple_(()=>10000)
+export { event_log_limit__set as event_log__set_limit, }
 export function event_log__add(ctx, record) {
 	_event_log__set(ctx, [record, ..._event_log_(ctx)])
-}
-export function event_log__set_limit(ctx, limit) {
-	event_log_limit__set(ctx, limit)
 }
