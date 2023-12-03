@@ -1,5 +1,15 @@
 # @ctx-core/event-log
 
+## 9.2.38
+
+### Patch Changes
+
+- @ctx-core/object: ^31.1.14 -> ^31.1.15
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/nanostores@9.0.20
+
 ## 9.2.37
 
 ### Patch Changes
