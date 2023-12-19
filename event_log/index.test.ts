@@ -1,4 +1,4 @@
-import { ctx__new } from '@ctx-core/object'
+import { ctx__new } from 'ctx-core/be'
 import { test } from 'uvu'
 import { equal } from 'uvu/assert'
 import { event_log_, event_log__add, event_log_limit_, event_log_limit__set } from '../index.js'

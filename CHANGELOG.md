@@ -1,5 +1,13 @@
 # @ctx-core/event-log
 
+## 9.2.61
+
+### Patch Changes
+
+- consolidate dependencies
+- Updated dependencies
+  - ctx-core@5.1.0
+
 ## 9.2.60
 
 ### Patch Changes

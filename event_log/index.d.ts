@@ -1,5 +1,5 @@
 import type { be_atom_triple_T, be_computed_pair_T, ReadableAtom_ } from '@ctx-core/nanostores'
-import type { Ctx } from '@ctx-core/object'
+import type { Ctx } from 'ctx-core/be'
 export declare const [
 	event_log$_,
 	event_log_
