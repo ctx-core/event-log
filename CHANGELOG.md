@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 10.0.0
+
+### Major Changes
+
+- rmemo instead of @ctx-core/nanostores
+
 ## 9.2.72
 
 ### Patch Changes

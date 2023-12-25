@@ -1,25 +1,24 @@
-import { be_atom_triple_, be_computed_pair_ } from '@ctx-core/nanostores'
+import { be_sig_triple_, be_memo_pair_ } from 'ctx-core/rmemo'
 const [
-	_event_log$_,
+	,
 	_event_log_,
 	_event_log__set,
-] = be_atom_triple_(()=>[])
+] = be_sig_triple_(()=>[])
 export const [
 	event_log$_,
 	event_log_,
-] = be_computed_pair_(ctx=>[_event_log$_(ctx), event_log_limit$_(ctx)],
-	(_event_log, event_log_limit)=>{
-		if (_event_log?.length > event_log_limit) {
-			_event_log.splice(event_log_limit)
-		}
-		return _event_log.slice()
-	}, { id: 'event_log' })
+] = be_memo_pair_(ctx=>{
+	if (_event_log_(ctx)?.length > event_log_limit_(ctx)) {
+		_event_log_(ctx).splice(event_log_limit_(ctx))
+	}
+	return _event_log_(ctx).slice()
+}, { id: 'event_log' })
 export { event_log$_ as event_log__ }
 export const [
 	event_log_limit$_,
 	event_log_limit_,
 	event_log_limit__set
-] = be_atom_triple_(()=>10000)
+] = be_sig_triple_(()=>10000)
 export { event_log_limit__set as event_log__set_limit, }
 export function event_log__add(ctx, record) {
 	_event_log__set(ctx, [record, ..._event_log_(ctx)])
