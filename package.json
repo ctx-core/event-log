@@ -22,7 +22,7 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"./event_log"
+		"event_log"
 	],
 	"types": "./index.d.ts",
 	"exports": {
