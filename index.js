@@ -1,1 +1,1 @@
-export * from './event_log/index.js'
+export * from 'ctx-core/event_log'
