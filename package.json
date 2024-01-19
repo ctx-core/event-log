@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "10.0.36",
+	"version": "10.0.37",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -21,8 +21,7 @@
 	"files": [
 		"*.d.ts",
 		"*.js",
-		"*.json",
-		"../ctx-core/all/event_log"
+		"*.json"
 	],
 	"types": "./index.d.ts",
 	"exports": {

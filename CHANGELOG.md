@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 10.0.37
+
+### Patch Changes
+
+- package.json: fix: files
+
 ## 10.0.36
 
 ### Patch Changes
