@@ -1,5 +1,13 @@
 # @ctx-core/event-log
 
+## 10.0.40
+
+### Patch Changes
+
+- event_log: fix: infinite recursion error
+- Updated dependencies
+  - ctx-core@5.25.5
+
 ## 10.0.39
 
 ### Patch Changes
