@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "10.0.51",
+	"version": "10.0.52",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.32.1"
+		"ctx-core": "^5.33.0"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
