@@ -1,5 +1,13 @@
 # @ctx-core/event-log
 
+## 10.0.92
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 10.0.91
 
 ### Patch Changes

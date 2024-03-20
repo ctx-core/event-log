@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/event-log",
-	"version": "10.0.91",
+	"version": "10.0.92",
 	"description": "ctx-core event log",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,11 @@
 		"url": "https://github.com/ctx-core/event-log.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-event-log@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -39,7 +43,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^6.6.0"
+		"ctx-core": "^6.6.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
