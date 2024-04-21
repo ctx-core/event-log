@@ -1,5 +1,11 @@
 # @ctx-core/event-log
 
+## 10.0.111
+
+### Patch Changes
+
+- ctx-core: ^7.2.0 -> ^7.2.1
+
 ## 10.0.110
 
 ### Patch Changes
